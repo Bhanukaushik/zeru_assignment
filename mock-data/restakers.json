@@ -1,0 +1,17 @@
+[
+  {
+    "userAddress": "0xAbC123456789...",
+    "amountRestaked": "120.50",
+    "targetValidator": "0xValidatorA"
+  },
+  {
+    "userAddress": "0xDeF987654321...",
+    "amountRestaked": "300.00",
+    "targetValidator": "0xValidatorB"
+  },
+  {
+    "userAddress": "0x1234567890Ab...",
+    "amountRestaked": "250.75",
+    "targetValidator": "0xValidatorC"
+  }
+]

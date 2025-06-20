@@ -1,0 +1,32 @@
+[
+  {
+    "operatorAddress": "0xValidatorA",
+    "totalDelegatedStake": "5000",
+    "slashHistory": [
+      {
+        "timestamp": "2024-12-01T12:00:00Z",
+        "amount": "100",
+        "reason": "Downtime"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "operatorAddress": "0xValidatorB",
+    "totalDelegatedStake": "8000",
+    "slashHistory": [],
+    "status": "jailed"
+  },
+  {
+    "operatorAddress": "0xValidatorC",
+    "totalDelegatedStake": "4500",
+    "slashHistory": [
+      {
+        "timestamp": "2025-01-15T09:30:00Z",
+        "amount": "50",
+        "reason": "Double signing"
+      }
+    ],
+    "status": "slashed"
+  }
+]
